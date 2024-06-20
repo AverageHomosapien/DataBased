@@ -9,3 +9,5 @@ This project implements a simple relational database, that gives a good idea of 
 - https://www.coursera.org/articles/nosql-vs-sql
 - https://www.mongodb.com/resources/compare/mongodb-vs-redis
 - https://wiki.mozilla.org/Performance/Avoid_SQLite_In_Your_Next_Firefox_Feature
+- https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-database
+- https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database
