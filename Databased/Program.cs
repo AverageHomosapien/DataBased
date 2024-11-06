@@ -24,4 +24,10 @@ memoryManager.Save(details);
 
 byte[] retrievedObject = memoryManager.Get();
 
+HouseDetails t = memoryManager.ParseClass<HouseDetails>();
+
+Console.WriteLine("Address: " + t.Address);
+Console.WriteLine("Bathrooms: " + t.Bathrooms);
+Console.WriteLine("Bedrooms: " + t.Bedrooms);
+
 //memoryManager.Save(details);
