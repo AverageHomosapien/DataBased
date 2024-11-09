@@ -20,6 +20,9 @@ HouseDetails details = new HouseDetails()
     Bedrooms = bedrooms,
 };
 
+details.Serialize();
+details.De
+
 memoryManager.Save(details);
 
 byte[] retrievedObject = memoryManager.Get();

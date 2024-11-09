@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Databased
 {
-    public class HouseDetails
+    public class HouseDetails : CustomDbType
     {
         public string Address { get; set; } = string.Empty;
         public string City { get; set; } = string.Empty;
